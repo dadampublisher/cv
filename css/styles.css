@@ -1,0 +1,153 @@
+@@media print {}
+
+@@media (max-width: 900px) {}
+
+@@media (max-width: 1028px) {}
+
+body {
+  font-family: 'Chilanka', cursive;
+}
+
+h1 {
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: "Montserrat-Bold";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h3 {
+  font-family: "Montserrat-Bold";
+  font-size: 1.5rem;
+}
+
+p {
+  font-family: 'Chilanka', cursive;
+  color: #8f8f8f;
+}
+
+/**********ID SELECTORS**********/
+#title {}
+
+/* Navigation Bar */
+#navbarSupportedContent {}
+
+#navbarDropdown {}
+
+/* Feature Box */
+#features {
+  background-color: #fff;
+  padding: 7% 15%;
+}
+
+/* Testimonials section */
+#testimonials {
+  text-align: center;
+  background-color: #f1f0cf;
+  color: #000;
+}
+
+/* Press section */
+#press {}
+
+/* Showroom */
+#showroom {}
+
+/* Pricing section */
+#pricing {
+  background-color: #f1f0cf;
+  padding: 100px;
+}
+
+/* Mini Book Shop */
+#mbs {}
+
+/* Call to Action */
+#cta {
+  background-color: #b6e6bd;
+  text-align: center;
+  padding: 5%;
+}
+
+/* Footer */
+#footer {
+  background-color: #4baea0;
+  text-align: center;
+  padding: 5%;
+}
+
+#footer2 {
+  background-color: #fff;
+  padding: 5%;
+}
+
+/**********ClASS SELECTORS**********/
+.container-fluid {
+  padding: 3% 15%;
+  background-color: #f1f0cf;
+}
+
+/* Navigation Bar */
+.navbar {
+  background-color: #f1f0cf;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Poppins';
+}
+
+.nav-item {
+  font-family: 'Poppins';
+}
+
+/* Download Button */
+.download-button {
+  margin: 5% 3% 5% 0%;
+}
+
+.row {
+  padding-top: 2.5rem;
+}
+
+/* Feature Box */
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #b6e6bd;
+}
+
+.icon:hover {
+  color: #4baea0;
+}
+
+/* Testimonials section */
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+/* Press section */
+/* Showroom */
+/* Pricing section */
+/* Mini Book Shop */
+/* Call to Action */
+/* Footer */
