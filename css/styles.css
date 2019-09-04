@@ -60,7 +60,6 @@ p {
 /* Pricing section */
 #pricing {
   background-color: #f1f0cf;
-  padding: 100px;
 }
 
 /* Mini Book Shop */
@@ -141,7 +140,9 @@ p {
   margin: 20px;
 }
 
-.carousel-item {}
+.carousel-item {
+  padding: 7% 15%;
+}
 
 /* Press section */
 /* Showroom */
